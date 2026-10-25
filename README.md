@@ -138,24 +138,6 @@ Software engineering student at **Université SESAME** with a strong focus on **
       </p>
       <p><a href="https://github.com/lotfi7021/portfolio"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View portfolio repository" /></a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lotfi7021/achat">Achat</a></h3>
-      <p>Purchasing and e-commerce application built in Java.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      </p>
-      <p><a href="https://github.com/lotfi7021/achat"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View achat repository" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lotfi7021/boumiza">Boumiza</a></h3>
-      <p>TypeScript web project exploring modern front-end tooling and component design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      </p>
-      <p><a href="https://github.com/lotfi7021/boumiza"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View boumiza repository" /></a></p>
-    </td>
     <td width="50%" valign="top"></td>
   </tr>
 </table>
