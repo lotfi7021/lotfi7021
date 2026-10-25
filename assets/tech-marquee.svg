@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-label="Animated marquee of Lotfi Makhlouf's technologies">
+  <defs>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="8%" stop-color="#ffffff"/>
+      <stop offset="92%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <mask id="edge">
+      <rect width="1200" height="80" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <g mask="url(#edge)">
+    <g>
+      <text x="0" y="48" textLength="1600" lengthAdjust="spacingAndGlyphs" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="18" fill="#93c5fd">PYTHON · DJANGO · LARAVEL · SPRING BOOT · REACT · ANGULAR · VUE · TYPESCRIPT · DOCKER · POSTGRESQL · MONGODB · POWER BI · AZURE ·</text>
+      <text x="1600" y="48" textLength="1600" lengthAdjust="spacingAndGlyphs" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="18" fill="#93c5fd">PYTHON · DJANGO · LARAVEL · SPRING BOOT · REACT · ANGULAR · VUE · TYPESCRIPT · DOCKER · POSTGRESQL · MONGODB · POWER BI · AZURE ·</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1600 0" dur="30s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

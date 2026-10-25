@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="Decorative animated blue divider">
+  <defs>
+    <linearGradient id="base" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#60a5fa" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#dbeafe" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11" width="1200" height="2" fill="url(#base)"/>
+  <rect x="-240" y="10" width="240" height="4" rx="2" fill="url(#shine)">
+    <animate attributeName="x" from="-240" to="1200" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="600" cy="12" r="2" fill="#93c5fd" opacity="0.5">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

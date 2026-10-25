@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Animated blue footer wave">
+  <defs>
+    <linearGradient id="w1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M0,80 C100,40 200,40 300,80 S500,120 600,80 S800,40 900,80 S1100,120 1200,80 S1400,40 1500,80 S1700,120 1800,80 S2000,40 2100,80 S2300,120 2400,80 L2400,140 L0,140 Z" fill="url(#w1)" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,95 C100,55 200,55 300,95 S500,135 600,95 S800,55 900,95 S1100,135 1200,95 S1400,55 1500,95 S1700,135 1800,95 S2000,55 2100,95 S2300,135 2400,95 L2400,140 L0,140 Z" fill="url(#w2)" opacity="0.28">
+    <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="16s" repeatCount="indefinite"/>
+  </path>
+
+  <g fill="#93c5fd">
+    <circle cx="150" cy="42" r="2" opacity="0.2"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="320" cy="30" r="1.5" opacity="0.2"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="48" r="1.8" opacity="0.2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.7s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="34" r="1.4" opacity="0.2"><animate attributeName="opacity" values="0.1;0.75;0.1" dur="4.5s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="46" r="2" opacity="0.2"><animate attributeName="opacity" values="0.1;0.85;0.1" dur="3.4s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="32" r="1.6" opacity="0.2"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.2s" begin="1.5s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

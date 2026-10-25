@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Animated terminal showing Lotfi Makhlouf's profile information">
+  <defs>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="type1" clipPathUnits="userSpaceOnUse"><rect x="46" y="70" width="0" height="26"><animate attributeName="width" from="0" to="92" begin="0.4s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="type2" clipPathUnits="userSpaceOnUse"><rect x="46" y="136" width="0" height="26"><animate attributeName="width" from="0" to="82" begin="1.8s" dur="0.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="type3" clipPathUnits="userSpaceOnUse"><rect x="46" y="202" width="0" height="26"><animate attributeName="width" from="0" to="112" begin="3.0s" dur="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="type4" clipPathUnits="userSpaceOnUse"><rect x="46" y="268" width="0" height="26"><animate attributeName="width" from="0" to="72" begin="4.2s" dur="0.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="358" rx="16" fill="#0b1220" stroke="url(#border)" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="46" rx="16" fill="#0f172a"/>
+  <rect x="1" y="30" width="998" height="17" fill="#0f172a"/>
+  <line x1="1" y1="47" x2="999" y2="47" stroke="#1e3a8a" stroke-width="1"/>
+
+  <circle cx="28" cy="24" r="6" fill="#ef4444"/>
+  <circle cx="48" cy="24" r="6" fill="#f59e0b"/>
+  <circle cx="68" cy="24" r="6" fill="#22c55e"/>
+  <text x="500" y="29" text-anchor="middle" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="13" fill="#64748b">lotfi@github: ~</text>
+
+  <text x="46" y="88" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" clip-path="url(#type1)"><tspan fill="#60a5fa">$ </tspan><tspan fill="#e2e8f0">whoami</tspan></text>
+  <text x="46" y="118" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" fill="#93c5fd" opacity="0"><tspan>Lotfi Makhlouf</tspan><tspan fill="#64748b">  // software engineering student</tspan><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.4s" fill="freeze"/></text>
+
+  <text x="46" y="154" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" clip-path="url(#type2)"><tspan fill="#60a5fa">$ </tspan><tspan fill="#e2e8f0">stack</tspan></text>
+  <text x="46" y="184" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" fill="#cbd5e1" opacity="0">Django · Laravel · Spring Boot · React · Angular · Vue<animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.4s" fill="freeze"/></text>
+
+  <text x="46" y="220" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" clip-path="url(#type3)"><tspan fill="#60a5fa">$ </tspan><tspan fill="#e2e8f0">location</tspan></text>
+  <text x="46" y="250" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" fill="#cbd5e1" opacity="0">Tunisia<animate attributeName="opacity" from="0" to="1" begin="3.9s" dur="0.4s" fill="freeze"/></text>
+
+  <text x="46" y="286" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" clip-path="url(#type4)"><tspan fill="#60a5fa">$ </tspan><tspan fill="#e2e8f0">goal</tspan></text>
+  <text x="46" y="316" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" fill="#93c5fd" opacity="0">PFE internship — full-stack / DevOps / Data<animate attributeName="opacity" from="0" to="1" begin="5.0s" dur="0.4s" fill="freeze"/></text>
+
+  <text x="46" y="346" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" fill="#60a5fa" opacity="0">$<animate attributeName="opacity" from="0" to="1" begin="5.2s" dur="0.3s" fill="freeze"/></text>
+  <rect x="64" y="332" width="8" height="18" fill="#60a5fa" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0;1;1;0" dur="2.4s" begin="5.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
