@@ -11,7 +11,6 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lotfi-makhlouf-87aa16244/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/lotfi7021/portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lotfimakhlouf2000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lotfi7021)
 
@@ -29,7 +28,7 @@ Software engineering student at **Université SESAME** with a strong focus on **
 - Full-stack development with **Django, Laravel, Spring Boot, React, Angular and Vue**
 - Interested in **DevOps, CI/CD, Docker and cloud deployment**
 - Exploring **data engineering and BI** with SQL Server, SSIS, Power BI and Metabase
-- Currently deepening my knowledge of **AI, microservices and clean architecture**
+- Currently deepening my knowledge of **AI, microservices, Kubernetes and clean architecture**
 - Based in Tunisia
 
 <img src="assets/divider.svg" alt="Decorative animated blue divider" width="100%" />
@@ -39,9 +38,9 @@ Software engineering student at **Université SESAME** with a strong focus on **
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,cs,php,typescript,javascript,django,laravel,spring,react,angular,vue,tailwind,mysql,postgres,mongodb,docker,git,github,linux,azure,netlify&theme=dark&perline=11" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,cs,php,typescript,javascript,django,laravel,spring,react,angular,vue,tailwind,mysql,postgres,mongodb,docker,git,github,linux,azure,netlify&theme=light&perline=11" />
-  <img src="https://skillicons.dev/icons?i=python,java,cs,php,typescript,javascript,django,laravel,spring,react,angular,vue,tailwind,mysql,postgres,mongodb,docker,git,github,linux,azure,netlify&theme=light&perline=11" alt="Tech stack icons: Python, Java, C#, PHP, TypeScript, JavaScript, Django, Laravel, Spring Boot, React, Angular, Vue, Tailwind, MySQL, PostgreSQL, MongoDB, Docker, Git, GitHub, Linux, Azure, Netlify" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,cs,php,typescript,javascript,django,laravel,spring,react,angular,vue,tailwind,mysql,postgres,mongodb,docker,git,github,linux,azure,netlify,nodejs,nestjs,kubernetes,prometheus&theme=dark&perline=13" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,cs,php,typescript,javascript,django,laravel,spring,react,angular,vue,tailwind,mysql,postgres,mongodb,docker,git,github,linux,azure,netlify,nodejs,nestjs,kubernetes,prometheus&theme=light&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,php,typescript,javascript,django,laravel,spring,react,angular,vue,tailwind,mysql,postgres,mongodb,docker,git,github,linux,azure,netlify,nodejs,nestjs,kubernetes,prometheus&theme=light&perline=13" alt="Tech stack icons: Python, Java, C#, PHP, TypeScript, JavaScript, Django, Laravel, Spring Boot, React, Angular, Vue, Tailwind, MySQL, PostgreSQL, MongoDB, Docker, Git, GitHub, Linux, Azure, Netlify, Node.js, NestJS, Kubernetes, Prometheus" />
 </picture>
 
 <br/><br/>
@@ -64,8 +63,19 @@ Software engineering student at **Université SESAME** with a strong focus on **
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/lotfi7021/stage-ete-piece-de-rechange">SD-Auto · Pièces de rechange</a></h3>
-      <p>Automotive spare-parts e-commerce platform: product catalog, order management, stock tracking, invoicing, after-sales service and admin dashboards. Built with SCRUM.</p>
+      <h3><a href="https://github.com/lotfi7021/coffeshop_pfe">CoffeShop · Plateforme B2B café</a></h3>
+      <p>B2B platform for selling and managing coffee and coffee machines: catalog, stock, orders, invoicing, after-sales service and BI dashboards. End-of-studies project (PFE) built with Laravel 10.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase" />
+      </p>
+      <p><a href="https://github.com/lotfi7021/coffeshop_pfe"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View coffeshop_pfe repository" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lotfi7021/stage-ete-piece-de-rechange">SelectCars · Pièces automobiles</a></h3>
+      <p>B2B/B2C e-commerce platform for automotive spare parts and machines: product catalog, order management, stock tracking, invoicing, after-sales service and admin dashboards. Built with SCRUM.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -73,6 +83,8 @@ Software engineering student at **Université SESAME** with a strong focus on **
       </p>
       <p><a href="https://github.com/lotfi7021/stage-ete-piece-de-rechange"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View SD-Auto repository" /></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lotfi7021/SESAME-CONNECT">SESAME-CONNECT</a></h3>
       <p>Student announcements platform for publishing and managing campus updates with a clean Django backend.</p>
@@ -83,16 +95,53 @@ Software engineering student at **Université SESAME** with a strong focus on **
       </p>
       <p><a href="https://github.com/lotfi7021/SESAME-CONNECT"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View SESAME-CONNECT repository" /></a></p>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lotfi7021/boumiza">Boumiza · Gestion de projets</a></h3>
+      <p>Project and team management platform: projects, tasks, teams, employees and claims across four role-based spaces, with drag-and-drop Kanban boards and hand-gesture control (MediaPipe).</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <p><a href="https://github.com/lotfi7021/boumiza"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View boumiza repository" /></a></p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lotfi7021/projet_micro_service">Projet Microservices</a></h3>
-      <p>Microservices-based application with a modern, component-driven front-end.</p>
+      <p>Polyglot microservices platform for products, stock, invoicing, claims and users, wired through Spring Cloud Gateway and Eureka, with a Vue.js frontend.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-        <img src="https://img.shields.io/badge/Microservices-1E3A8A?style=flat-square" alt="Microservices" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
       </p>
       <p><a href="https://github.com/lotfi7021/projet_micro_service"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View projet_micro_service repository" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lotfi7021/deployment-angular-springboot-mysql-k8s">Angular · Spring · Kubernetes</a></h3>
+      <p>Full-stack CRUD application fully containerized and deployed on Kubernetes: Angular 16 frontend served by nginx, Spring Boot 3.3 API, persistent MySQL 8 and an nginx Ingress entry point.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p><a href="https://github.com/lotfi7021/deployment-angular-springboot-mysql-k8s"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View deployment-angular-springboot-mysql-k8s repository" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lotfi7021/Gestion-des-formations-STEG">StegForma · Formations STEG</a></h3>
+      <p>Training-management platform for STEG: sessions, registrations, attendance, payments, PDF certificates and notifications, plus a local AI assistant (Ollama) for summaries and Q&amp;A.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+      <p><a href="https://github.com/lotfi7021/Gestion-des-formations-STEG"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Gestion-des-formations-STEG repository" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lotfi7021/devops">DevOps Backend</a></h3>
@@ -125,20 +174,6 @@ Software engineering student at **Université SESAME** with a strong focus on **
       </p>
       <p><a href="https://github.com/lotfi7021/L-orchestration-avec-Docker-Compose"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Docker Compose repository" /></a></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lotfi7021/portfolio">Portfolio</a></h3>
-      <p>Personal portfolio website with a modern, animated interface and a dark visual identity.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-      </p>
-      <p><a href="https://github.com/lotfi7021/portfolio"><img src="https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github&logoColor=white" alt="View portfolio repository" /></a></p>
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
