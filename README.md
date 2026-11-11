@@ -1,7 +1,7 @@
 <div align="center">
 //edmkekmdekmkewmsdsk
 <img src="assets/banner.svg" alt="Animated banner with Lotfi Makhlouf's name, role and university" width="100%" />
-
+//eifjeufjrufrj
 <br/>
 
 <a href="https://github.com/lotfi7021">
